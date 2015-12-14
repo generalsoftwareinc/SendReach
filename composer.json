@@ -1,0 +1,10 @@
+{
+  "name": "sendreach/php-sdk",
+  "description": "The official SendReach PHP SDK.",
+  "homepage": "http://setup.sendreach.com/integrations/sendreach-api-documntation/",
+  "autoload": {
+    "psr-0": {
+      "MailWizzApi": "src/"
+    }
+  }
+}
